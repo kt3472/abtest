@@ -3,7 +3,4 @@
 **1. Summary**
 
 
-**2. Summary**
-
-
 **3. examples**
