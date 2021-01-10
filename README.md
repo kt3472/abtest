@@ -7,4 +7,4 @@
  - reference : https://clevertap.com/blog/a-marketers-guide-to-ab-testing/
 
 
-**2. examples**
+**2. Examples**
